@@ -1,0 +1,68 @@
+Programa para Preparar una Taza de Café
+
+1. Identificación de los pasos necesarios:
+
+    1. Reúne los ingredientes y utensilios.
+    2. Llena la cafetera con agua.
+    3. Coloca el filtro en la cafetera.
+    4. Añade café molido al filtro.
+    5. Enciende la cafetera.
+    6. Espera a que el café se prepare.
+    7. Sirve el café en una taza.
+    8. Añade azúcar, leche o cualquier aditivo preferido.
+    9. Remueve el café.
+    10. Disfruta tu taza de café.
+
+2. Escritura de cada paso en orden:
+
+    1. Reúne los ingredientes y utensilios:
+        * Ingredientes: café molido, agua, azúcar (opcional), leche (opcional).
+        * Utensilios: cafetera, filtro de café, taza, cuchara.
+
+    2. Llena la cafetera con agua:
+        * Abre el depósito de agua de la cafetera.
+        * Llena el depósito con la cantidad de agua deseada, según la cantidad de café que deseas preparar.
+        * Cierra el depósito de agua.
+
+    3. Coloca el filtro en la cafetera:
+        * Abre la tapa del compartimento del filtro.
+        * Coloca un filtro de papel o reutilizable en el compartimento.
+        * Asegúrate de que el filtro esté bien posicionado.
+
+    4. Añade café molido al filtro:
+        * Usa una cuchara medidora para colocar una cucharada de café molido por cada taza de agua en el filtro.
+        * Cierra la tapa del compartimento del filtro.
+
+    5. Enciende la cafetera:
+        * Conecta la cafetera a la corriente eléctrica.
+        * Pulsa el botón de encendido para iniciar el proceso de preparación.
+
+    6. Espera a que el café se prepare:
+        * Permite que la cafetera caliente el agua y la pase a través del café molido.
+        * Espera a que el proceso de goteo termine y la cafetera se apague automáticamente o emita una señal de que ha terminado.
+
+    7. Sirve el café en una taza:
+        * Coloca una taza bajo la boquilla de la cafetera o vierte el café preparado desde la jarra a tu taza.
+
+    8. Añade azúcar, leche o cualquier aditivo preferido:
+        * Si deseas, añade azúcar, leche, crema u otros aditivos a tu gusto.
+        * Usa una cuchara para remover bien el café y disolver cualquier aditivo.
+
+    9. Remueve el café:
+        * Mezcla bien el café con la cuchara para asegurarte de que los aditivos estén bien integrados.
+
+    10. Disfruta tu taza de café:
+        * Lleva la taza a tus labios.
+        * Toma un sorbo y disfruta del café recién preparado.
+
+3. Prueba del programa:
+
+Siguiendo estos pasos exactamente, pude preparar una taza de café sin problemas. Los pasos son claros y fáciles de seguir, asegurando un resultado satisfactorio.
+
+4. Explicación del programa:
+
+Este programa te guía a través del proceso de preparar una taza de café utilizando una cafetera estándar. Comienza reuniendo los ingredientes y utensilios necesarios, luego avanza a través de cada paso del proceso de preparación, desde llenar la cafetera con agua hasta servir el café y añadir aditivos. El programa finaliza con el disfrute de la taza de café preparada.
+
+Resultado:
+
+Un programa claro y detallado que asegura la preparación correcta de una taza de café, proporcionando un inicio y un final definidos, así como decisiones opcionales para personalizar el café al gusto del usuario.
